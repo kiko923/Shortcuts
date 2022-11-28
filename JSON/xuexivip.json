@@ -1,0 +1,68 @@
+{
+"techxuexi":{
+"name":"科技强国vip内部",
+"v":"1.0.4",
+"news":"\n",
+"news_s":"off",
+"u":"https://www.icloud.com/shortcuts/aed9026d95574b5eb2d5981400dbd5da",
+"tongji":"https://api.lau.plus/tongji/xuexi/",
+"view":"https://api.lau.plus/tongji/?do=view&typeId=xuexivip",
+"count":"https://api.lau.plus/tongji/?do=count&typeId=xuexivip",
+"tongji_t":"总使用次数：",
+"t0":"",
+"user-login-api":"https://user.lau.plus/api.php?appid=2&act=login",
+
+"up5":"1.优化显示方式\n\n\n更新后请记得重新填写UID！！！\n更新后请记得重新填写UID！！！\n更新后请记得重新填写UID！！！",
+"jihuo_t":"若挂机超过1小时分数还停留在1分的话\n请选择你的名字激活刷题功能！",
+"vcf":"https://api.lau.plus/vcf/xuexivip_vcf",
+"zfbhb":"https://api.lau.plus/images/zfb.jpg",
+"gzh_t":"感谢支持 麻烦给我点个关注！非常感谢！",
+
+"jump_url":"dtxuexi://appclient/page/study_feeds?url=",
+
+"study1":"https://qg.lau.plus/api/list_messages",
+"study2":"https://qg.lau.plus/api/now",
+"study_add":"https://api.lau.plus/add_free.php",
+"study_list":"https://qg.lau.plus/api/list_users_status_from_memory",
+"study_list222":"https://qg.lau.plus/api/list_users_status_from_memory",
+"study_jihuo":"https://qg.lau.plus/api/learn_by_uid/",
+
+"vip1":"https://nmsl.lau.plus/api/list_messages",
+"vip2":"https://nmsl.lau.plus/api/now",
+"vip_add":"https://techxuexi.lau.plus/api/token.php",
+"vip_list":"https://nmsl.lau.plus/api/list",
+"vip_jihuo":"https://nmsl.lau.plus/api/learn_by_uid/",
+
+"vip_refresh":"https://nmsl.lau.plus/api/refresh_all_cookies",
+
+"qqun":"https://qm.qq.com/cgi-bin/qm/qr?k=5V1ERiJ0nePHPWssqnDZ-6IkrWQWXXwP&jump_from=webapi",
+
+"use":"1⃣️选择“提交账号”选项 会自动获取一条跳转链接\n2⃣️点击与你生成时间接近的选项 即可跳转到学习强国\n3⃣️跳转后点击登陆\n4⃣️返回快捷指令 选择“账号状态查询”看看有没有你的名字 有的话就成功了\n\n注意事项：登陆一次 登陆时间维持12小时 期间可以不用管 系统会自动阅读刷题 目前看到能达到45分 可能还能更高 登陆了之后可能会有几十秒的延迟 才能在查询查看到你的名字",
+"gzh":"https://api.lau.plus/images/gzh.jpg",
+"wxqun":"https://api.lau.plus/images/wxqun.jpg",
+"netcloud":"https://music.lau.plus/",
+"fenge":"我只是一条分割线哟(＾Ｕ＾)ノ~ＹＯ\n用的满意的话可以关注一下我公众号哦！\n公众号：KIKO黑科技",
+
+
+"study_n":"网络错误！请联系作者V：1931165",
+"create_t":"正在创建中 请稍后。。",
+"create_t2":"请勿循环添加 会导致服务器运行过载！",
+"list_t":"如果能看到你的名字 就说明已经提交成功了！\n请勿多次提交！",
+"list_t2":"后台暂时未有账号正在刷题！",
+"success_t":"登录后可重新运行快捷指令选择“账号状态查询”查看是否添加成功！",
+"success_t2":"点击登陆后返回快捷指令即可刷新用户列表!",
+
+"vip_refresh_t":"正在刷新用户名单。。。",
+
+"vip_refresh_t2":"刷新成功！若还未显示名字 请联系管理！",
+"vip_refresh_t3":"刷新失败！请联系管理！",
+"vip_auth_t":"请联系管理！",
+
+"news_t":"公告:",
+"up1":"⚠️检测到新版本！",
+"up2": "当前版本:",
+"up3": "最新版本:",
+"up4":"\n【更新内容】",
+"up6": "\n点击“好”跳转下载！",
+}
+}
