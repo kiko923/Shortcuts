@@ -1,10 +1,10 @@
 {
 "techxuexi":{
 "name":"科技强国vip内部",
-"v":"1.0.4",
+"v":"1.0.5",
 "news":"\n",
 "news_s":"off",
-"u":"https://www.icloud.com/shortcuts/aed9026d95574b5eb2d5981400dbd5da",
+"u":"https://www.icloud.com/shortcuts/9cfd36e705f3496c8f9b4f699df17b4a",
 "tongji":"https://api.lau.plus/tongji/xuexi/",
 "view":"https://api.lau.plus/tongji/?do=view&typeId=xuexivip",
 "count":"https://api.lau.plus/tongji/?do=count&typeId=xuexivip",
