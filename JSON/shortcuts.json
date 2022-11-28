@@ -1,3 +1,4 @@
+https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/
 {
     "author":
     {
@@ -156,29 +157,29 @@
     
     "free_url":"https://www.icloud.com/shortcuts/e66ea27771784a3f8af2cdb0afb094f1",
     
-    "gzh":"https://api.lau.plus/images/gzhqr.jpeg",
-    "wxqun":"https://api.lau.plus/images/wxqun.jpg",
+    "gzh":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/gzhqr.jpeg",
+    "wxqun":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/wxqun.jpg",
     "netcloud":"https://tools.lau.plus/",
     "fenge":"我只是一条分割线哟(＾Ｕ＾)ノ~ＹＯ\n用的满意的话可以关注一下我公众号哦！\n公众号：KIKO黑科技",
-    "leica":"https://api.lau.plus/images/leica.png",
-    "sony":"https://api.lau.plus/images/sony.png",
-    "nikon":"https://api.lau.plus/images/nikon.png",
-    "canon":"https://api.lau.plus/images/canon.png",
-    "apple":"https://api.lau.plus/images/apple.png",
-    "fujifilm":"https://api.lau.plus/images/fujifilm.png",
-    "panasonic":"https://api.lau.plus/images/panasonic.png",
-    "ricoh":"https://api.lau.plus/images/ricoh.png",
-    "hasu":"https://api.lau.plus/images/hasu.png",
-    "nokia":"https://api.lau.plus/images/nokia.png",
-    "samsung":"https://api.lau.plus/images/samsung.png",
-    "huawei":"https://api.lau.plus/images/huawei.png",
-    "xiaomi":"https://api.lau.plus/images/xiaomi.png",
-    "motorola":"https://api.lau.plus/images/motorola.png",
-    "dji":"https://api.lau.plus/images/dji.png",
-    "rollei":"https://api.lau.plus/images/rollei.png",
-    "pentex":"https://api.lau.plus/images/pentex.png",
-    "vivo":"https://api.lau.plus/images/vivo.png",
-    "oppo":"https://api.lau.plus/images/oppo.png",
+    "leica":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/leica.png",
+    "sony":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/sony.png",
+    "nikon":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/nikon.png",
+    "canon":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/canon.png",
+    "apple":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/apple.png",
+    "fujifilm":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/fujifilm.png",
+    "panasonic":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/panasonic.png",
+    "ricoh":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/ricoh.png",
+    "hasu":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/hasu.png",
+    "nokia":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/nokia.png",
+    "samsung":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/samsung.png",
+    "huawei":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/huawei.png",
+    "xiaomi":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/xiaomi.png",
+    "motorola":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/motorola.png",
+    "dji":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/dji.png",
+    "rollei":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/rollei.png",
+    "pentex":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/pentex.png",
+    "vivo":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/vivo.png",
+    "oppo":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/oppo.png",
     
     
     
@@ -214,8 +215,8 @@
     "api_switch": "off",
     "u": "https://www.icloud.com/shortcuts/bbc366bb3cd34ac2b0c45fcadb41bf56",
     
-    "vcf":"https://api.lau.plus/vcf/cloudmusic_vcf",
-    "vcf2":"https://api.lau.plus/vcf/cloudmusic2_vcf",
+    "vcf":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/vcf/cloudmusic_vcf",
+    "vcf2":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/vcf/cloudmusic2_vcf",
     
     "api": "https://music-api.lau.plus/",
     "api_u": "https://music-api.lau.plus/",
@@ -304,8 +305,8 @@
     
     "up5":"1.修复小BUG\n",
     "jihuo_t":"若挂机超过1小时分数还停留在1分的话\n请选择你的名字激活刷题功能！",
-    "vcf":"https://api.lau.plus/vcf/xuexi_vcf",
-    "zfbhb":"https://api.lau.plus/images/2022hb.png",
+    "vcf":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/vcf/xuexi_vcf",
+    "zfbhb":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/2022hb.png",
     "gzh_t":"感谢支持 麻烦给我点个关注！非常感谢！",
     
     "jump_url":"dtxuexi://appclient/page/study_feeds?url=",
@@ -331,8 +332,8 @@
     
     
     "use":"1⃣️.选择“开始提交刷题”选项 会自动获取一条跳转链接\n2⃣️.点击与你生成时间接近的选项 即可跳转到学习强国\n3⃣️.跳转后点击登陆\n4⃣️.返回快捷指令 选择“账号状态查询”看看有没有你的名字 有的话就成功了\n\n注意事项：登陆一次 登陆时间维持12小时 期间可以不用管 系统会自动阅读刷题 目前看到能达到六十分 可能还能更高 登陆了之后可能会有几十秒的延迟 才能在查询查看到你的名字",
-    "gzh":"https://api.lau.plus/images/gzhqr.jpeg",
-    "wxqun":"https://api.lau.plus/images/wxqun.jpg",
+    "gzh":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/gzhqr.jpeg",
+    "wxqun":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/wxqun.jpg",
     "netcloud":"https://music.lau.plus/",
     "fenge":"我只是一条分割线哟(＾Ｕ＾)ノ~ＹＯ\n用的满意的话可以关注一下我公众号哦！\n公众号：KIKO黑科技",
     
@@ -371,8 +372,8 @@
     
     "up5":"1.更换完美接口 刷步成功率百分百！\n",
     "jihuo_t":"若挂机超过1小时分数还停留在1分的话\n请选择你的名字激活刷题功能！",
-    "vcf":"https://api.lau.plus/vcf/shuabu_vcf",
-    "zfbhb":"https://api.lau.plus/images/2022hb.png",
+    "vcf":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/vcf/shuabu_vcf",
+    "zfbhb":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/2022hb.png",
     "gzh_t":"感谢支持 麻烦给我点个关注！非常感谢！",
     
     "api":"https://api.lau.plus/api/shuabu/mi.php",
@@ -389,8 +390,8 @@
     
     
     "use":"1⃣️.选择“开始提交刷题”选项 会自动获取一条跳转链接\n2⃣️.点击与你生成时间接近的选项 即可跳转到学习强国\n3⃣️.跳转后点击登陆\n4⃣️.返回快捷指令 选择“账号状态查询”看看有没有你的名字 有的话就成功了\n\n注意事项：登陆一次 登陆时间维持12小时 期间可以不用管 系统会自动阅读刷题 目前看到能达到六十分 可能还能更高 登陆了之后可能会有几十秒的延迟 才能在查询查看到你的名字",
-    "gzh":"https://api.lau.plus/images/gzhqr.jpeg",
-    "wxqun":"https://api.lau.plus/images/wxqun.jpg",
+    "gzh":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/gzhqr.jpeg",
+    "wxqun":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/wxqun.jpg",
     "netcloud":"https://music.lau.plus/",
     "fenge":"我只是一条分割线哟(＾Ｕ＾)ノ~ＹＯ\n用的满意的话可以关注一下我公众号哦！\n公众号：KIKO黑科技",
     "news_t":"公告:",
