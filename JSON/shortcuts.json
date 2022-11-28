@@ -144,12 +144,12 @@
     "view":"https://api.lau.plus/tongji/?do=view&typeId=logo",
     "count":"https://api.lau.plus/tongji/?do=count&typeId=logo",
     "taobao":"https://m.tb.cn/h.UT2Mbee?tk=HRqVdYk5Cjd",
-    "zfbhb":"https://api.lau.plus/images/2022hb.png",
+    "zfbhb":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/2022hb.png",
     "tongji_t":"总使用次数：",
     "t0":"请选择需要的水印",
     
     "up5":"1.重磅更新 可批量添加水印\n2.将照片元数据DateTime参数更改为DateTimeOriginal参数\n3.细节优化\n4.全新改版计数器",
-    "vcf":"https://api.lau.plus/vcf/camera_vcf",
+    "vcf":"https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/vcf/camera_vcf",
     
     "gzh_t":"感谢支持 麻烦给我点个关注！非常感谢！",
     
