@@ -1,2 +1,2 @@
-公众号：KIKO黑科技
-![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/75443014/204340919-beb6fc3d-0a56-4819-88bd-45e85c011ea0.png)
+公众号：永至
+![gzhsaoma](https://github.com/kiko923/Shortcuts/assets/75443014/22df3235-b646-4402-bd23-7021ae4a8ca9)
